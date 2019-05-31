@@ -19,7 +19,7 @@ li {
   margin-left: 20px;
 }
 
-p, address { 
+p, address {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -347,11 +347,11 @@ section {
 /*////////// FOOTER //////////*/
 
 footer {
-  text-align: center; 
+  text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
-  border-top: 1px solid; 
+  border-top: 1px solid;
 }
 
 
@@ -365,7 +365,7 @@ footer {
   posiion: absolute;
   width: auto;
   top: 82px;
-  right: 4px; 
+  right: 4px;
   }
 }
 
@@ -392,7 +392,7 @@ footer {
     column-count: 2;
 }
 
-} 
+}
 
 @media only screen and (max-width: 900px;) {
   #navbar nav a {
@@ -406,7 +406,7 @@ footer {
   }
   .border-right {
     border-right: 0;
-  
+
   }
 
   #details div {
